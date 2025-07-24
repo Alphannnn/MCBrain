@@ -167,6 +167,7 @@ header a:hover {
     max-width: 1000px;
     text-align: center;
     color: white;
+   margin-bottom: 10px;
 }
 .hero h3{
     position: absolute;
@@ -176,6 +177,7 @@ header a:hover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: gray;
+   margin-bottom: 10px;
 }
 
 .hero button{
